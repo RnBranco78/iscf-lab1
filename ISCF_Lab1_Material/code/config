@@ -1,0 +1,10 @@
+config = {
+    "apiKey": "AIzaSyDo3BEpOhxjf44KnkVjk_swPcq05VqMImU",
+    "authDomain": "iscf-960e0.firebaseapp.com",
+    "databaseURL": "https://iscf-960e0-default-rtdb.europe-west1.firebasedatabase.app",
+    "projectId": "iscf-960e0",
+    "storageBucket": "iscf-960e0.firebasestorage.app",
+    "messagingSenderId": "284448417973",
+    "appId": "1:284448417973:web:ff51eb93810c542f0e76fc",
+    "measurementId": "G-NL4M1JFCDN"
+}
