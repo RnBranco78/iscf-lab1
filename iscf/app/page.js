@@ -7,16 +7,15 @@ import { initializeApp } from "firebase/app";
 import Papa from "papaparse";
 
 const firebaseConfig = {
-  "apiKey": "AIzaSyDo3BEpOhxjf44KnkVjk_swPcq05VqMImU",
-  "authDomain": "iscf-960e0.firebaseapp.com",
-  "databaseURL": "https://iscf-960e0-default-rtdb.europe-west1.firebasedatabase.app",
-  "projectId": "iscf-960e0",
-  "storageBucket": "iscf-960e0.firebasestorage.app",
-  "messagingSenderId": "284448417973",
-  "appId": "1:284448417973:web:ff51eb93810c542f0e76fc",
-  "measurementId": "G-NL4M1JFCDN"
+  apiKey: "AIzaSyDtkV64htawFkwChpKB-2JM9G5AqQzWVNI",
+  authDomain: "iscf-ac914.firebaseapp.com",
+  databaseURL: "https://iscf-ac914-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "iscf-ac914",
+  storageBucket: "iscf-ac914.firebasestorage.app",
+  messagingSenderId: "586621867031",
+  appId: "1:586621867031:web:a181f461062cb41c3c3852",
+  measurementId: "G-X5CG2V4B7J"
 };
-
 
 initializeApp(firebaseConfig);
 const db = getDatabase();
